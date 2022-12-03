@@ -1,11 +1,28 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on
+  * Remote IoT Lab
+  * Customer Fraud Detection (Demonstration of microservices architecture)
+  
+- 🌱 I’m currently learning 
+  * Typescript
+  * Rust
+  * Terraform
+  * Azure
+  * AWS
+  * Jenkins
+  * Kubernetes
+  * Ansible
+  
+- ⚡ Skills:
+  * Java, Python (Very comfortable)
+  * Javascript (Worked on projects)
+  * Docker
+  * Spring boot
+  * Node.js
+  * React
+  * Selenium
+  * Jmeter
+  * Arduino
+  * RabbitMQ
 
