@@ -16,7 +16,7 @@
   
 - ⚡ Skills:
   * Java, Python (Very comfortable)
-  * Javascript (Worked on projects)
+  * Javascript, C++, C (Intermediate to advanced)
   * Docker
   * Spring boot
   * Node.js
